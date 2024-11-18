@@ -110,4 +110,4 @@ FORM exemplo2.
     EXCEPTIONS
       program_error           = 1
       others                  = 2.
-ENDFORM.vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+ENDFORM.
